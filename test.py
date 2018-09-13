@@ -16,6 +16,7 @@ soup = BeautifulSoup(response.content, 'html.parser')
 #Find all table format <tabe></table>
 stat_table =soup.find_all('table')
 #Check how many table
+len(stat_table)
 #Select the first one
 table = stat_table[0]
 
