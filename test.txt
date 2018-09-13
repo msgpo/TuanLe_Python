@@ -1,0 +1,1035 @@
+          
+A D A M Inc.                         com  00088U108   2592    367700 SH        Sole             253100        114600
+AAR Corp.                            com  000361105    367     12900 SH        Sole               9900          3000
+ASV Inc.                             com  001963107  47310   1468334 SH        Sole             896744        571590
+ATP Oil & Gas Corp.                  com  00208j108  27316    622097 SH        Sole             444775        177322
+Abaxis, Inc.                         com  002567105   9750    429900 SH        Sole             310700        119200
+Ace Comm. Corp.                      com  004404109   3741   1350376 SH        Sole             928976        421400
+Adams Respiratory Therapeutics       com  00635p107  34689    872246 SH        Sole             502632        369614
+Adeza Biomedical Corp.               com  006864102  23122   1094257 SH        Sole             778138        316119
+Aeroflex Inc.                        com  007768104    578     42100 SH        Sole              32400          9700
+Akamai Technologies Com              com  00971t101   1410     42877 SH        Sole              16427         26450
+Aldila Inc.                          com  014384200  12031    362381 SH        Sole             263938         98443
+Allion Healthcare, Inc.              com  019615103   6072    447819 SH        Sole             264644        183175
+Allis Chalmers Energy                com  019645506   3782    277500 SH        Sole             191400         86100
+Alpha Pro Tech Ltd.                  com  020772109   2541   1004400 SH        Sole             681300        323100
+American Science & Engr. Inc.        com  029429107  15349    164339 SH        Sole             115815         48524
+American Software                    com  029683109   1560    214600 SH        Sole             148000         66600
+Answerthink, Inc.                    com  036916104   2773    431200 SH        Sole             415000         16200
+Applix Inc.                          com  038316105     91     11900 SH        Sole                            11900
+Arena Resources, Inc.                com  040049108   6380    182800 SH        Sole             131800         51000
+Arthrocare Corp.                     com  043136100  28043    586424 SH        Sole             419098        167326
+Aspect Medical Systems               com  045235108  12324    449126 SH        Sole             318132        130994
+Aspreva Pharmaceutical ADR           com  04538t109  43453   1745818 SH        Sole            1050740        695078
+Astec Inds Inc.                      com  046224101   1605     44700 SH        Sole              41100          3600
+Astronics Corp.                      com  046433108    698     51750 SH        Sole              35700         16050
+Atheros Communications               com  04743p108    477     18200 SH        Sole              14000          4200
+Audio Codes ADR                      com  m15342104  17725   1282553 SH        Sole             918013        364540
+BTU International, Inc.              com  056032105   3845    234000 SH        Sole             161300         72700
+Barrett Business Services            com  068463108   9014    333855 SH        Sole             225413        108442
+Bentley Pharmaceuticals, Inc.        com  082657107   3412    259494 SH        Sole             178658         80836
+Bitstream, Inc.                      com  091736108   1892    254600 SH        Sole             175600         79000
+Bodisen Biotech ADR                  com  096892104   9112    577800 SH        Sole             465200        112600
+Bronco Drilling Company, Inc.        com  112211107  33675   1280433 SH        Sole             731569        548864
+Bucyrus Int'l Inc.                   com  118759109  21109    438035 SH        Sole             310350        127685
+CRA Int'l Inc.                       com  12618t105  15750    319738 SH        Sole             225492         94246
+CTRIP Com Int'l Ltd ADR              com  22943f100  20880    252484 SH        Sole             174720         77764
+Carrizo Oil & Company, Inc.          com  144577103  35677   1372716 SH        Sole             972425        400291
+Cellpoint, Inc.                      com  15115e109      0     11875 SH        Sole                            11875
+Centene Corp.                        com  15135B101  16451    563964 SH        Sole             378507        185457
+Central European Distribution        com  153435102  28985    753834 SH        Sole             516396        237438
+Central European Media Enterpr       com  g20045202    734     10700 SH        Sole               8200          2500
+Ceradyne, Inc.                       com  156710105  67671   1356135 SH        Sole             883085        473050
+Charles & Colvard Ltd.               com  159765106  10385    958907 SH        Sole             675820        283087
+Cheesecake Factory, Inc.             com  163072101    582     15548 SH        Sole              11957          3591
+China Techfaith Wireless             com  169424108   1542    106500 SH        Sole             106500
+Cogent, Inc.                         com  19239y108    320     17425 SH        Sole                            17425
+Comarco, Inc.                        com  200080109   4217    368900 SH        Sole             242400        126500
+Comtech Group, Inc.                  com  205821200   1229    122900 SH        Sole             122900
+Comtech Telecomm Corp.               com  205826209    223      7644 SH        Sole                             7644
+Concur Technologies                  com  206708109  19819   1069561 SH        Sole             760300        309261
+Criticare Sys Corp.                  com  226901106   3641    800300 SH        Sole             552500        247800
+Crocs, Inc.                          com  227046109  10835    430801 SH        Sole             313801        117000
+Cybersource Corp.                    com  23251J106  11835   1060456 SH        Sole             678617        381839
+Cytyc Corp.                          com  232946103    544     19308 SH        Sole              14847          4461
+DXP Enterprises, Inc.                com  233377407   2802     80600 SH        Sole              55600         25000
+Datatrak International Inc.          com  238134100   3245    442087 SH        Sole             303411        138676
+Dawson Geophysical Co.               com  239359102   5535    200554 SH        Sole             133763         66791
+Deltathree, Inc.                     com  24783n102   1762    607500 SH        Sole             417700        189800
+Desarrolladora Homex ADR             com  25030w100  17128    484794 SH        Sole             347651        137143
+Dril Quip Inc.                       com  262037104  28605    403736 SH        Sole             293442        110294
+Dynamic Materials Corp.              com  267888105   5270    147872 SH        Sole             114394         33478
+ENGlobal Corp. (RESTRICTED)          com  000000000   1315     90000 SH        Sole              90000
+Edge Petroleum                       com  279862106   4802    192251 SH        Sole             132595         59656
+Edgewater Tech                       com  280358102   3202    489600 SH        Sole             335900        153700
+Ediets.com, Inc.                     com  280597105   1560    292764 SH        Sole             202018         90746
+Electronic Clearing House, Inc.      com  285562500    903     70800 SH        Sole              48700         22100
+Enbridge Energy Management Llc       com  ckc50x106      0     29643 SH        Sole                            29643
+Englobal Corp.                       com  293306106   6716    459711 SH        Sole             228458        231253
+Essex Corp.                          com  296744105  18454    838036 SH        Sole             597100        240936
+Euronet Worldwide, Inc.              com  298736109  35070    927054 SH        Sole             519811        407243
+F5 Networks, Inc.                    com  315616102   1646     22700 SH        Sole              21000          1700
+Falconstar Software                  com  306137100  15241   1612831 SH        Sole            1111700        501131
+First Advantage Corp CL A            com  31845f100   1771     73250 SH        Sole              50594         22656
+First Horizon Pharmaceutical C       com  32051K106  17937    711521 SH        Sole             505099        206422
+Flotek (RESTRICTED)                  com  000000000    627     25000 SH        Sole              25000
+Flotek Inds Inc.                     com  343389102   5157    205465 SH        Sole              99900        105565
+Focus Media Hldg Ltd ADR             com  34415V109  93437   1610429 SH        Sole            1031833        578596
+Foxhollow Technology                 com  35166a103   4726    154700 SH        Sole             112200         42500
+Fuel-Tech N.V.                       com  359523107  13117    820338 SH        Sole             535184        285154
+GMX Resources Inc.                   com  38011M108  12287    328087 SH        Sole             227074        101013
+Gaiam, Inc.                          com  36268q103   1136     70500 SH        Sole              45800         24700
+General Electric Co.                 com  369604103    530     15249 SH        Sole                            15249
+Glenayre Technologies                com  377899109  14298   2723362 SH        Sole            1919771        803591
+Golden Eagle Minerals, Inc.          com  380961102      0     10000 SH        Sole                            10000
+Golf Galaxy, Inc.                    com  381639103   4534    207493 SH        Sole             143000         64493
+Graham Corp.                         com  384556106   2724    139700 SH        Sole              96000         43700
+Hartmarx Corp.                       com  417119104     92     10696 SH        Sole                            10696
+Health Grades Inc.                   com  42218q102   2979    558838 SH        Sole             384257        174581
+Healthextras, Inc.                   com  422211102  36179   1024898 SH        Sole             582916        441982
+Healthspring, Inc.                   com  42224n101   1385     74400 SH        Sole              68700          5700
+Healthways, Inc.                     com  422245100  16227    318558 SH        Sole             218429        100129
+Helmerich & Payne                    com  423452101   1117     16000 SH        Sole               6900          9100
+Henry Brothers Electronics, In       com  426286100   1930    304000 SH        Sole             209400         94600
+Hercules Offshore                    com  427093109   8190    240825 SH        Sole             174725         66100
+         
+A D A M Inc.                         com  00088U108   2592    367700 SH        Sole             253100        114600
+AAR Corp.                            com  000361105    367     12900 SH        Sole               9900          3000
+ASV Inc.                             com  001963107  47310   1468334 SH        Sole             896744        571590
+ATP Oil & Gas Corp.                  com  00208j108  27316    622097 SH        Sole             444775        177322
+Abaxis, Inc.                         com  002567105   9750    429900 SH        Sole             310700        119200
+Ace Comm. Corp.                      com  004404109   3741   1350376 SH        Sole             928976        421400
+Adams Respiratory Therapeutics       com  00635p107  34689    872246 SH        Sole             502632        369614
+Adeza Biomedical Corp.               com  006864102  23122   1094257 SH        Sole             778138        316119
+Aeroflex Inc.                        com  007768104    578     42100 SH        Sole              32400          9700
+Akamai Technologies Com              com  00971t101   1410     42877 SH        Sole              16427         26450
+Aldila Inc.                          com  014384200  12031    362381 SH        Sole             263938         98443
+Allion Healthcare, Inc.              com  019615103   6072    447819 SH        Sole             264644        183175
+Allis Chalmers Energy                com  019645506   3782    277500 SH        Sole             191400         86100
+Alpha Pro Tech Ltd.                  com  020772109   2541   1004400 SH        Sole             681300        323100
+American Science & Engr. Inc.        com  029429107  15349    164339 SH        Sole             115815         48524
+American Software                    com  029683109   1560    214600 SH        Sole             148000         66600
+Answerthink, Inc.                    com  036916104   2773    431200 SH        Sole             415000         16200
+Applix Inc.                          com  038316105     91     11900 SH        Sole                            11900
+Arena Resources, Inc.                com  040049108   6380    182800 SH        Sole             131800         51000
+Arthrocare Corp.                     com  043136100  28043    586424 SH        Sole             419098        167326
+Aspect Medical Systems               com  045235108  12324    449126 SH        Sole             318132        130994
+Aspreva Pharmaceutical ADR           com  04538t109  43453   1745818 SH        Sole            1050740        695078
+Astec Inds Inc.                      com  046224101   1605     44700 SH        Sole              41100          3600
+Astronics Corp.                      com  046433108    698     51750 SH        Sole              35700         16050
+Atheros Communications               com  04743p108    477     18200 SH        Sole              14000          4200
+Audio Codes ADR                      com  m15342104  17725   1282553 SH        Sole             918013        364540
+BTU International, Inc.              com  056032105   3845    234000 SH        Sole             161300         72700
+Barrett Business Services            com  068463108   9014    333855 SH        Sole             225413        108442
+Bentley Pharmaceuticals, Inc.        com  082657107   3412    259494 SH        Sole             178658         80836
+Bitstream, Inc.                      com  091736108   1892    254600 SH        Sole             175600         79000
+Bodisen Biotech ADR                  com  096892104   9112    577800 SH        Sole             465200        112600
+Bronco Drilling Company, Inc.        com  112211107  33675   1280433 SH        Sole             731569        548864
+Bucyrus Int'l Inc.                   com  118759109  21109    438035 SH        Sole             310350        127685
+CRA Int'l Inc.                       com  12618t105  15750    319738 SH        Sole             225492         94246
+CTRIP Com Int'l Ltd ADR              com  22943f100  20880    252484 SH        Sole             174720         77764
+Carrizo Oil & Company, Inc.          com  144577103  35677   1372716 SH        Sole             972425        400291
+Cellpoint, Inc.                      com  15115e109      0     11875 SH        Sole                            11875
+Centene Corp.                        com  15135B101  16451    563964 SH        Sole             378507        185457
+Central European Distribution        com  153435102  28985    753834 SH        Sole             516396        237438
+Central European Media Enterpr       com  g20045202    734     10700 SH        Sole               8200          2500
+Ceradyne, Inc.                       com  156710105  67671   1356135 SH        Sole             883085        473050
+Charles & Colvard Ltd.               com  159765106  10385    958907 SH        Sole             675820        283087
+Cheesecake Factory, Inc.             com  163072101    582     15548 SH        Sole              11957          3591
+China Techfaith Wireless             com  169424108   1542    106500 SH        Sole             106500
+Cogent, Inc.                         com  19239y108    320     17425 SH        Sole                            17425
+Comarco, Inc.                        com  200080109   4217    368900 SH        Sole             242400        126500
+Comtech Group, Inc.                  com  205821200   1229    122900 SH        Sole             122900
+Comtech Telecomm Corp.               com  205826209    223      7644 SH        Sole                             7644
+Concur Technologies                  com  206708109  19819   1069561 SH        Sole             760300        309261
+Criticare Sys Corp.                  com  226901106   3641    800300 SH        Sole             552500        247800
+Crocs, Inc.                          com  227046109  10835    430801 SH        Sole             313801        117000
+Cybersource Corp.                    com  23251J106  11835   1060456 SH        Sole             678617        381839
+Cytyc Corp.                          com  232946103    544     19308 SH        Sole              14847          4461
+DXP Enterprises, Inc.                com  233377407   2802     80600 SH        Sole              55600         25000
+Datatrak International Inc.          com  238134100   3245    442087 SH        Sole             303411        138676
+Dawson Geophysical Co.               com  239359102   5535    200554 SH        Sole             133763         66791
+Deltathree, Inc.                     com  24783n102   1762    607500 SH        Sole             417700        189800
+Desarrolladora Homex ADR             com  25030w100  17128    484794 SH        Sole             347651        137143
+Dril Quip Inc.                       com  262037104  28605    403736 SH        Sole             293442        110294
+Dynamic Materials Corp.              com  267888105   5270    147872 SH        Sole             114394         33478
+ENGlobal Corp. (RESTRICTED)          com  000000000   1315     90000 SH        Sole              90000
+Edge Petroleum                       com  279862106   4802    192251 SH        Sole             132595         59656
+Edgewater Tech                       com  280358102   3202    489600 SH        Sole             335900        153700
+Ediets.com, Inc.                     com  280597105   1560    292764 SH        Sole             202018         90746
+Electronic Clearing House, Inc.      com  285562500    903     70800 SH        Sole              48700         22100
+Enbridge Energy Management Llc       com  ckc50x106      0     29643 SH        Sole                            29643
+Englobal Corp.                       com  293306106   6716    459711 SH        Sole             228458        231253
+Essex Corp.                          com  296744105  18454    838036 SH        Sole             597100        240936
+Euronet Worldwide, Inc.              com  298736109  35070    927054 SH        Sole             519811        407243
+F5 Networks, Inc.                    com  315616102   1646     22700 SH        Sole              21000          1700
+Falconstar Software                  com  306137100  15241   1612831 SH        Sole            1111700        501131
+First Advantage Corp CL A            com  31845f100   1771     73250 SH        Sole              50594         22656
+First Horizon Pharmaceutical C       com  32051K106  17937    711521 SH        Sole             505099        206422
+Flotek (RESTRICTED)                  com  000000000    627     25000 SH        Sole              25000
+Flotek Inds Inc.                     com  343389102   5157    205465 SH        Sole              99900        105565
+Focus Media Hldg Ltd ADR             com  34415V109  93437   1610429 SH        Sole            1031833        578596
+Foxhollow Technology                 com  35166a103   4726    154700 SH        Sole             112200         42500
+Fuel-Tech N.V.                       com  359523107  13117    820338 SH        Sole             535184        285154
+GMX Resources Inc.                   com  38011M108  12287    328087 SH        Sole             227074        101013
+Gaiam, Inc.                          com  36268q103   1136     70500 SH        Sole              45800         24700
+General Electric Co.                 com  369604103    530     15249 SH        Sole                            15249
+Glenayre Technologies                com  377899109  14298   2723362 SH        Sole            1919771        803591
+Golden Eagle Minerals, Inc.          com  380961102      0     10000 SH        Sole                            10000
+Golf Galaxy, Inc.                    com  381639103   4534    207493 SH        Sole             143000         64493
+Graham Corp.                         com  384556106   2724    139700 SH        Sole              96000         43700
+Hartmarx Corp.                       com  417119104     92     10696 SH        Sole                            10696
+Health Grades Inc.                   com  42218q102   2979    558838 SH        Sole             384257        174581
+Healthextras, Inc.                   com  422211102  36179   1024898 SH        Sole             582916        441982
+Healthspring, Inc.                   com  42224n101   1385     74400 SH        Sole              68700          5700
+Healthways, Inc.                     com  422245100  16227    318558 SH        Sole             218429        100129
+Helmerich & Payne                    com  423452101   1117     16000 SH        Sole               6900          9100
+Henry Brothers Electronics, In       com  426286100   1930    304000 SH        Sole             209400         94600
+Hercules Offshore                    com  427093109   8190    240825 SH        Sole             174725         66100
+        
+A D A M Inc.                         com  00088U108   2592    367700 SH        Sole             253100        114600
+AAR Corp.                            com  000361105    367     12900 SH        Sole               9900          3000
+ASV Inc.                             com  001963107  47310   1468334 SH        Sole             896744        571590
+ATP Oil & Gas Corp.                  com  00208j108  27316    622097 SH        Sole             444775        177322
+Abaxis, Inc.                         com  002567105   9750    429900 SH        Sole             310700        119200
+Ace Comm. Corp.                      com  004404109   3741   1350376 SH        Sole             928976        421400
+Adams Respiratory Therapeutics       com  00635p107  34689    872246 SH        Sole             502632        369614
+Adeza Biomedical Corp.               com  006864102  23122   1094257 SH        Sole             778138        316119
+Aeroflex Inc.                        com  007768104    578     42100 SH        Sole              32400          9700
+Akamai Technologies Com              com  00971t101   1410     42877 SH        Sole              16427         26450
+Aldila Inc.                          com  014384200  12031    362381 SH        Sole             263938         98443
+Allion Healthcare, Inc.              com  019615103   6072    447819 SH        Sole             264644        183175
+Allis Chalmers Energy                com  019645506   3782    277500 SH        Sole             191400         86100
+Alpha Pro Tech Ltd.                  com  020772109   2541   1004400 SH        Sole             681300        323100
+American Science & Engr. Inc.        com  029429107  15349    164339 SH        Sole             115815         48524
+American Software                    com  029683109   1560    214600 SH        Sole             148000         66600
+Answerthink, Inc.                    com  036916104   2773    431200 SH        Sole             415000         16200
+Applix Inc.                          com  038316105     91     11900 SH        Sole                            11900
+Arena Resources, Inc.                com  040049108   6380    182800 SH        Sole             131800         51000
+Arthrocare Corp.                     com  043136100  28043    586424 SH        Sole             419098        167326
+Aspect Medical Systems               com  045235108  12324    449126 SH        Sole             318132        130994
+Aspreva Pharmaceutical ADR           com  04538t109  43453   1745818 SH        Sole            1050740        695078
+Astec Inds Inc.                      com  046224101   1605     44700 SH        Sole              41100          3600
+Astronics Corp.                      com  046433108    698     51750 SH        Sole              35700         16050
+Atheros Communications               com  04743p108    477     18200 SH        Sole              14000          4200
+Audio Codes ADR                      com  m15342104  17725   1282553 SH        Sole             918013        364540
+BTU International, Inc.              com  056032105   3845    234000 SH        Sole             161300         72700
+Barrett Business Services            com  068463108   9014    333855 SH        Sole             225413        108442
+Bentley Pharmaceuticals, Inc.        com  082657107   3412    259494 SH        Sole             178658         80836
+Bitstream, Inc.                      com  091736108   1892    254600 SH        Sole             175600         79000
+Bodisen Biotech ADR                  com  096892104   9112    577800 SH        Sole             465200        112600
+Bronco Drilling Company, Inc.        com  112211107  33675   1280433 SH        Sole             731569        548864
+Bucyrus Int'l Inc.                   com  118759109  21109    438035 SH        Sole             310350        127685
+CRA Int'l Inc.                       com  12618t105  15750    319738 SH        Sole             225492         94246
+CTRIP Com Int'l Ltd ADR              com  22943f100  20880    252484 SH        Sole             174720         77764
+Carrizo Oil & Company, Inc.          com  144577103  35677   1372716 SH        Sole             972425        400291
+Cellpoint, Inc.                      com  15115e109      0     11875 SH        Sole                            11875
+Centene Corp.                        com  15135B101  16451    563964 SH        Sole             378507        185457
+Central European Distribution        com  153435102  28985    753834 SH        Sole             516396        237438
+Central European Media Enterpr       com  g20045202    734     10700 SH        Sole               8200          2500
+Ceradyne, Inc.                       com  156710105  67671   1356135 SH        Sole             883085        473050
+Charles & Colvard Ltd.               com  159765106  10385    958907 SH        Sole             675820        283087
+Cheesecake Factory, Inc.             com  163072101    582     15548 SH        Sole              11957          3591
+China Techfaith Wireless             com  169424108   1542    106500 SH        Sole             106500
+Cogent, Inc.                         com  19239y108    320     17425 SH        Sole                            17425
+Comarco, Inc.                        com  200080109   4217    368900 SH        Sole             242400        126500
+Comtech Group, Inc.                  com  205821200   1229    122900 SH        Sole             122900
+Comtech Telecomm Corp.               com  205826209    223      7644 SH        Sole                             7644
+Concur Technologies                  com  206708109  19819   1069561 SH        Sole             760300        309261
+Criticare Sys Corp.                  com  226901106   3641    800300 SH        Sole             552500        247800
+Crocs, Inc.                          com  227046109  10835    430801 SH        Sole             313801        117000
+Cybersource Corp.                    com  23251J106  11835   1060456 SH        Sole             678617        381839
+Cytyc Corp.                          com  232946103    544     19308 SH        Sole              14847          4461
+DXP Enterprises, Inc.                com  233377407   2802     80600 SH        Sole              55600         25000
+Datatrak International Inc.          com  238134100   3245    442087 SH        Sole             303411        138676
+Dawson Geophysical Co.               com  239359102   5535    200554 SH        Sole             133763         66791
+Deltathree, Inc.                     com  24783n102   1762    607500 SH        Sole             417700        189800
+Desarrolladora Homex ADR             com  25030w100  17128    484794 SH        Sole             347651        137143
+Dril Quip Inc.                       com  262037104  28605    403736 SH        Sole             293442        110294
+Dynamic Materials Corp.              com  267888105   5270    147872 SH        Sole             114394         33478
+ENGlobal Corp. (RESTRICTED)          com  000000000   1315     90000 SH        Sole              90000
+Edge Petroleum                       com  279862106   4802    192251 SH        Sole             132595         59656
+Edgewater Tech                       com  280358102   3202    489600 SH        Sole             335900        153700
+Ediets.com, Inc.                     com  280597105   1560    292764 SH        Sole             202018         90746
+Electronic Clearing House, Inc.      com  285562500    903     70800 SH        Sole              48700         22100
+Enbridge Energy Management Llc       com  ckc50x106      0     29643 SH        Sole                            29643
+Englobal Corp.                       com  293306106   6716    459711 SH        Sole             228458        231253
+Essex Corp.                          com  296744105  18454    838036 SH        Sole             597100        240936
+Euronet Worldwide, Inc.              com  298736109  35070    927054 SH        Sole             519811        407243
+F5 Networks, Inc.                    com  315616102   1646     22700 SH        Sole              21000          1700
+Falconstar Software                  com  306137100  15241   1612831 SH        Sole            1111700        501131
+First Advantage Corp CL A            com  31845f100   1771     73250 SH        Sole              50594         22656
+First Horizon Pharmaceutical C       com  32051K106  17937    711521 SH        Sole             505099        206422
+Flotek (RESTRICTED)                  com  000000000    627     25000 SH        Sole              25000
+Flotek Inds Inc.                     com  343389102   5157    205465 SH        Sole              99900        105565
+Focus Media Hldg Ltd ADR             com  34415V109  93437   1610429 SH        Sole            1031833        578596
+Foxhollow Technology                 com  35166a103   4726    154700 SH        Sole             112200         42500
+Fuel-Tech N.V.                       com  359523107  13117    820338 SH        Sole             535184        285154
+GMX Resources Inc.                   com  38011M108  12287    328087 SH        Sole             227074        101013
+Gaiam, Inc.                          com  36268q103   1136     70500 SH        Sole              45800         24700
+General Electric Co.                 com  369604103    530     15249 SH        Sole                            15249
+Glenayre Technologies                com  377899109  14298   2723362 SH        Sole            1919771        803591
+Golden Eagle Minerals, Inc.          com  380961102      0     10000 SH        Sole                            10000
+Golf Galaxy, Inc.                    com  381639103   4534    207493 SH        Sole             143000         64493
+Graham Corp.                         com  384556106   2724    139700 SH        Sole              96000         43700
+Hartmarx Corp.                       com  417119104     92     10696 SH        Sole                            10696
+Health Grades Inc.                   com  42218q102   2979    558838 SH        Sole             384257        174581
+Healthextras, Inc.                   com  422211102  36179   1024898 SH        Sole             582916        441982
+Healthspring, Inc.                   com  42224n101   1385     74400 SH        Sole              68700          5700
+Healthways, Inc.                     com  422245100  16227    318558 SH        Sole             218429        100129
+Helmerich & Payne                    com  423452101   1117     16000 SH        Sole               6900          9100
+Henry Brothers Electronics, In       com  426286100   1930    304000 SH        Sole             209400         94600
+Hercules Offshore                    com  427093109   8190    240825 SH        Sole             174725         66100
+       
+A D A M Inc.                         com  00088U108   2592    367700 SH        Sole             253100        114600
+AAR Corp.                            com  000361105    367     12900 SH        Sole               9900          3000
+ASV Inc.                             com  001963107  47310   1468334 SH        Sole             896744        571590
+ATP Oil & Gas Corp.                  com  00208j108  27316    622097 SH        Sole             444775        177322
+Abaxis, Inc.                         com  002567105   9750    429900 SH        Sole             310700        119200
+Ace Comm. Corp.                      com  004404109   3741   1350376 SH        Sole             928976        421400
+Adams Respiratory Therapeutics       com  00635p107  34689    872246 SH        Sole             502632        369614
+Adeza Biomedical Corp.               com  006864102  23122   1094257 SH        Sole             778138        316119
+Aeroflex Inc.                        com  007768104    578     42100 SH        Sole              32400          9700
+Akamai Technologies Com              com  00971t101   1410     42877 SH        Sole              16427         26450
+Aldila Inc.                          com  014384200  12031    362381 SH        Sole             263938         98443
+Allion Healthcare, Inc.              com  019615103   6072    447819 SH        Sole             264644        183175
+Allis Chalmers Energy                com  019645506   3782    277500 SH        Sole             191400         86100
+Alpha Pro Tech Ltd.                  com  020772109   2541   1004400 SH        Sole             681300        323100
+American Science & Engr. Inc.        com  029429107  15349    164339 SH        Sole             115815         48524
+American Software                    com  029683109   1560    214600 SH        Sole             148000         66600
+Answerthink, Inc.                    com  036916104   2773    431200 SH        Sole             415000         16200
+Applix Inc.                          com  038316105     91     11900 SH        Sole                            11900
+Arena Resources, Inc.                com  040049108   6380    182800 SH        Sole             131800         51000
+Arthrocare Corp.                     com  043136100  28043    586424 SH        Sole             419098        167326
+Aspect Medical Systems               com  045235108  12324    449126 SH        Sole             318132        130994
+Aspreva Pharmaceutical ADR           com  04538t109  43453   1745818 SH        Sole            1050740        695078
+Astec Inds Inc.                      com  046224101   1605     44700 SH        Sole              41100          3600
+Astronics Corp.                      com  046433108    698     51750 SH        Sole              35700         16050
+Atheros Communications               com  04743p108    477     18200 SH        Sole              14000          4200
+Audio Codes ADR                      com  m15342104  17725   1282553 SH        Sole             918013        364540
+BTU International, Inc.              com  056032105   3845    234000 SH        Sole             161300         72700
+Barrett Business Services            com  068463108   9014    333855 SH        Sole             225413        108442
+Bentley Pharmaceuticals, Inc.        com  082657107   3412    259494 SH        Sole             178658         80836
+Bitstream, Inc.                      com  091736108   1892    254600 SH        Sole             175600         79000
+Bodisen Biotech ADR                  com  096892104   9112    577800 SH        Sole             465200        112600
+Bronco Drilling Company, Inc.        com  112211107  33675   1280433 SH        Sole             731569        548864
+Bucyrus Int'l Inc.                   com  118759109  21109    438035 SH        Sole             310350        127685
+CRA Int'l Inc.                       com  12618t105  15750    319738 SH        Sole             225492         94246
+CTRIP Com Int'l Ltd ADR              com  22943f100  20880    252484 SH        Sole             174720         77764
+Carrizo Oil & Company, Inc.          com  144577103  35677   1372716 SH        Sole             972425        400291
+Cellpoint, Inc.                      com  15115e109      0     11875 SH        Sole                            11875
+Centene Corp.                        com  15135B101  16451    563964 SH        Sole             378507        185457
+Central European Distribution        com  153435102  28985    753834 SH        Sole             516396        237438
+Central European Media Enterpr       com  g20045202    734     10700 SH        Sole               8200          2500
+Ceradyne, Inc.                       com  156710105  67671   1356135 SH        Sole             883085        473050
+Charles & Colvard Ltd.               com  159765106  10385    958907 SH        Sole             675820        283087
+Cheesecake Factory, Inc.             com  163072101    582     15548 SH        Sole              11957          3591
+China Techfaith Wireless             com  169424108   1542    106500 SH        Sole             106500
+Cogent, Inc.                         com  19239y108    320     17425 SH        Sole                            17425
+Comarco, Inc.                        com  200080109   4217    368900 SH        Sole             242400        126500
+Comtech Group, Inc.                  com  205821200   1229    122900 SH        Sole             122900
+Comtech Telecomm Corp.               com  205826209    223      7644 SH        Sole                             7644
+Concur Technologies                  com  206708109  19819   1069561 SH        Sole             760300        309261
+Criticare Sys Corp.                  com  226901106   3641    800300 SH        Sole             552500        247800
+Crocs, Inc.                          com  227046109  10835    430801 SH        Sole             313801        117000
+Cybersource Corp.                    com  23251J106  11835   1060456 SH        Sole             678617        381839
+Cytyc Corp.                          com  232946103    544     19308 SH        Sole              14847          4461
+DXP Enterprises, Inc.                com  233377407   2802     80600 SH        Sole              55600         25000
+Datatrak International Inc.          com  238134100   3245    442087 SH        Sole             303411        138676
+Dawson Geophysical Co.               com  239359102   5535    200554 SH        Sole             133763         66791
+Deltathree, Inc.                     com  24783n102   1762    607500 SH        Sole             417700        189800
+Desarrolladora Homex ADR             com  25030w100  17128    484794 SH        Sole             347651        137143
+Dril Quip Inc.                       com  262037104  28605    403736 SH        Sole             293442        110294
+Dynamic Materials Corp.              com  267888105   5270    147872 SH        Sole             114394         33478
+ENGlobal Corp. (RESTRICTED)          com  000000000   1315     90000 SH        Sole              90000
+Edge Petroleum                       com  279862106   4802    192251 SH        Sole             132595         59656
+Edgewater Tech                       com  280358102   3202    489600 SH        Sole             335900        153700
+Ediets.com, Inc.                     com  280597105   1560    292764 SH        Sole             202018         90746
+Electronic Clearing House, Inc.      com  285562500    903     70800 SH        Sole              48700         22100
+Enbridge Energy Management Llc       com  ckc50x106      0     29643 SH        Sole                            29643
+Englobal Corp.                       com  293306106   6716    459711 SH        Sole             228458        231253
+Essex Corp.                          com  296744105  18454    838036 SH        Sole             597100        240936
+Euronet Worldwide, Inc.              com  298736109  35070    927054 SH        Sole             519811        407243
+F5 Networks, Inc.                    com  315616102   1646     22700 SH        Sole              21000          1700
+Falconstar Software                  com  306137100  15241   1612831 SH        Sole            1111700        501131
+First Advantage Corp CL A            com  31845f100   1771     73250 SH        Sole              50594         22656
+First Horizon Pharmaceutical C       com  32051K106  17937    711521 SH        Sole             505099        206422
+Flotek (RESTRICTED)                  com  000000000    627     25000 SH        Sole              25000
+Flotek Inds Inc.                     com  343389102   5157    205465 SH        Sole              99900        105565
+Focus Media Hldg Ltd ADR             com  34415V109  93437   1610429 SH        Sole            1031833        578596
+Foxhollow Technology                 com  35166a103   4726    154700 SH        Sole             112200         42500
+Fuel-Tech N.V.                       com  359523107  13117    820338 SH        Sole             535184        285154
+GMX Resources Inc.                   com  38011M108  12287    328087 SH        Sole             227074        101013
+Gaiam, Inc.                          com  36268q103   1136     70500 SH        Sole              45800         24700
+General Electric Co.                 com  369604103    530     15249 SH        Sole                            15249
+Glenayre Technologies                com  377899109  14298   2723362 SH        Sole            1919771        803591
+Golden Eagle Minerals, Inc.          com  380961102      0     10000 SH        Sole                            10000
+Golf Galaxy, Inc.                    com  381639103   4534    207493 SH        Sole             143000         64493
+Graham Corp.                         com  384556106   2724    139700 SH        Sole              96000         43700
+Hartmarx Corp.                       com  417119104     92     10696 SH        Sole                            10696
+Health Grades Inc.                   com  42218q102   2979    558838 SH        Sole             384257        174581
+Healthextras, Inc.                   com  422211102  36179   1024898 SH        Sole             582916        441982
+Healthspring, Inc.                   com  42224n101   1385     74400 SH        Sole              68700          5700
+Healthways, Inc.                     com  422245100  16227    318558 SH        Sole             218429        100129
+Helmerich & Payne                    com  423452101   1117     16000 SH        Sole               6900          9100
+Henry Brothers Electronics, In       com  426286100   1930    304000 SH        Sole             209400         94600
+Hercules Offshore                    com  427093109   8190    240825 SH        Sole             174725         66100
+      
+A D A M Inc.                         com  00088U108   2592    367700 SH        Sole             253100        114600
+AAR Corp.                            com  000361105    367     12900 SH        Sole               9900          3000
+ASV Inc.                             com  001963107  47310   1468334 SH        Sole             896744        571590
+ATP Oil & Gas Corp.                  com  00208j108  27316    622097 SH        Sole             444775        177322
+Abaxis, Inc.                         com  002567105   9750    429900 SH        Sole             310700        119200
+Ace Comm. Corp.                      com  004404109   3741   1350376 SH        Sole             928976        421400
+Adams Respiratory Therapeutics       com  00635p107  34689    872246 SH        Sole             502632        369614
+Adeza Biomedical Corp.               com  006864102  23122   1094257 SH        Sole             778138        316119
+Aeroflex Inc.                        com  007768104    578     42100 SH        Sole              32400          9700
+Akamai Technologies Com              com  00971t101   1410     42877 SH        Sole              16427         26450
+Aldila Inc.                          com  014384200  12031    362381 SH        Sole             263938         98443
+Allion Healthcare, Inc.              com  019615103   6072    447819 SH        Sole             264644        183175
+Allis Chalmers Energy                com  019645506   3782    277500 SH        Sole             191400         86100
+Alpha Pro Tech Ltd.                  com  020772109   2541   1004400 SH        Sole             681300        323100
+American Science & Engr. Inc.        com  029429107  15349    164339 SH        Sole             115815         48524
+American Software                    com  029683109   1560    214600 SH        Sole             148000         66600
+Answerthink, Inc.                    com  036916104   2773    431200 SH        Sole             415000         16200
+Applix Inc.                          com  038316105     91     11900 SH        Sole                            11900
+Arena Resources, Inc.                com  040049108   6380    182800 SH        Sole             131800         51000
+Arthrocare Corp.                     com  043136100  28043    586424 SH        Sole             419098        167326
+Aspect Medical Systems               com  045235108  12324    449126 SH        Sole             318132        130994
+Aspreva Pharmaceutical ADR           com  04538t109  43453   1745818 SH        Sole            1050740        695078
+Astec Inds Inc.                      com  046224101   1605     44700 SH        Sole              41100          3600
+Astronics Corp.                      com  046433108    698     51750 SH        Sole              35700         16050
+Atheros Communications               com  04743p108    477     18200 SH        Sole              14000          4200
+Audio Codes ADR                      com  m15342104  17725   1282553 SH        Sole             918013        364540
+BTU International, Inc.              com  056032105   3845    234000 SH        Sole             161300         72700
+Barrett Business Services            com  068463108   9014    333855 SH        Sole             225413        108442
+Bentley Pharmaceuticals, Inc.        com  082657107   3412    259494 SH        Sole             178658         80836
+Bitstream, Inc.                      com  091736108   1892    254600 SH        Sole             175600         79000
+Bodisen Biotech ADR                  com  096892104   9112    577800 SH        Sole             465200        112600
+Bronco Drilling Company, Inc.        com  112211107  33675   1280433 SH        Sole             731569        548864
+Bucyrus Int'l Inc.                   com  118759109  21109    438035 SH        Sole             310350        127685
+CRA Int'l Inc.                       com  12618t105  15750    319738 SH        Sole             225492         94246
+CTRIP Com Int'l Ltd ADR              com  22943f100  20880    252484 SH        Sole             174720         77764
+Carrizo Oil & Company, Inc.          com  144577103  35677   1372716 SH        Sole             972425        400291
+Cellpoint, Inc.                      com  15115e109      0     11875 SH        Sole                            11875
+Centene Corp.                        com  15135B101  16451    563964 SH        Sole             378507        185457
+Central European Distribution        com  153435102  28985    753834 SH        Sole             516396        237438
+Central European Media Enterpr       com  g20045202    734     10700 SH        Sole               8200          2500
+Ceradyne, Inc.                       com  156710105  67671   1356135 SH        Sole             883085        473050
+Charles & Colvard Ltd.               com  159765106  10385    958907 SH        Sole             675820        283087
+Cheesecake Factory, Inc.             com  163072101    582     15548 SH        Sole              11957          3591
+China Techfaith Wireless             com  169424108   1542    106500 SH        Sole             106500
+Cogent, Inc.                         com  19239y108    320     17425 SH        Sole                            17425
+Comarco, Inc.                        com  200080109   4217    368900 SH        Sole             242400        126500
+Comtech Group, Inc.                  com  205821200   1229    122900 SH        Sole             122900
+Comtech Telecomm Corp.               com  205826209    223      7644 SH        Sole                             7644
+Concur Technologies                  com  206708109  19819   1069561 SH        Sole             760300        309261
+Criticare Sys Corp.                  com  226901106   3641    800300 SH        Sole             552500        247800
+Crocs, Inc.                          com  227046109  10835    430801 SH        Sole             313801        117000
+Cybersource Corp.                    com  23251J106  11835   1060456 SH        Sole             678617        381839
+Cytyc Corp.                          com  232946103    544     19308 SH        Sole              14847          4461
+DXP Enterprises, Inc.                com  233377407   2802     80600 SH        Sole              55600         25000
+Datatrak International Inc.          com  238134100   3245    442087 SH        Sole             303411        138676
+Dawson Geophysical Co.               com  239359102   5535    200554 SH        Sole             133763         66791
+Deltathree, Inc.                     com  24783n102   1762    607500 SH        Sole             417700        189800
+Desarrolladora Homex ADR             com  25030w100  17128    484794 SH        Sole             347651        137143
+Dril Quip Inc.                       com  262037104  28605    403736 SH        Sole             293442        110294
+Dynamic Materials Corp.              com  267888105   5270    147872 SH        Sole             114394         33478
+ENGlobal Corp. (RESTRICTED)          com  000000000   1315     90000 SH        Sole              90000
+Edge Petroleum                       com  279862106   4802    192251 SH        Sole             132595         59656
+Edgewater Tech                       com  280358102   3202    489600 SH        Sole             335900        153700
+Ediets.com, Inc.                     com  280597105   1560    292764 SH        Sole             202018         90746
+Electronic Clearing House, Inc.      com  285562500    903     70800 SH        Sole              48700         22100
+Enbridge Energy Management Llc       com  ckc50x106      0     29643 SH        Sole                            29643
+Englobal Corp.                       com  293306106   6716    459711 SH        Sole             228458        231253
+Essex Corp.                          com  296744105  18454    838036 SH        Sole             597100        240936
+Euronet Worldwide, Inc.              com  298736109  35070    927054 SH        Sole             519811        407243
+F5 Networks, Inc.                    com  315616102   1646     22700 SH        Sole              21000          1700
+Falconstar Software                  com  306137100  15241   1612831 SH        Sole            1111700        501131
+First Advantage Corp CL A            com  31845f100   1771     73250 SH        Sole              50594         22656
+First Horizon Pharmaceutical C       com  32051K106  17937    711521 SH        Sole             505099        206422
+Flotek (RESTRICTED)                  com  000000000    627     25000 SH        Sole              25000
+Flotek Inds Inc.                     com  343389102   5157    205465 SH        Sole              99900        105565
+Focus Media Hldg Ltd ADR             com  34415V109  93437   1610429 SH        Sole            1031833        578596
+Foxhollow Technology                 com  35166a103   4726    154700 SH        Sole             112200         42500
+Fuel-Tech N.V.                       com  359523107  13117    820338 SH        Sole             535184        285154
+GMX Resources Inc.                   com  38011M108  12287    328087 SH        Sole             227074        101013
+Gaiam, Inc.                          com  36268q103   1136     70500 SH        Sole              45800         24700
+General Electric Co.                 com  369604103    530     15249 SH        Sole                            15249
+Glenayre Technologies                com  377899109  14298   2723362 SH        Sole            1919771        803591
+Golden Eagle Minerals, Inc.          com  380961102      0     10000 SH        Sole                            10000
+Golf Galaxy, Inc.                    com  381639103   4534    207493 SH        Sole             143000         64493
+Graham Corp.                         com  384556106   2724    139700 SH        Sole              96000         43700
+Hartmarx Corp.                       com  417119104     92     10696 SH        Sole                            10696
+Health Grades Inc.                   com  42218q102   2979    558838 SH        Sole             384257        174581
+Healthextras, Inc.                   com  422211102  36179   1024898 SH        Sole             582916        441982
+Healthspring, Inc.                   com  42224n101   1385     74400 SH        Sole              68700          5700
+Healthways, Inc.                     com  422245100  16227    318558 SH        Sole             218429        100129
+Helmerich & Payne                    com  423452101   1117     16000 SH        Sole               6900          9100
+Henry Brothers Electronics, In       com  426286100   1930    304000 SH        Sole             209400         94600
+Hercules Offshore                    com  427093109   8190    240825 SH        Sole             174725         66100
+     
+A D A M Inc.                         com  00088U108   2592    367700 SH        Sole             253100        114600
+AAR Corp.                            com  000361105    367     12900 SH        Sole               9900          3000
+ASV Inc.                             com  001963107  47310   1468334 SH        Sole             896744        571590
+ATP Oil & Gas Corp.                  com  00208j108  27316    622097 SH        Sole             444775        177322
+Abaxis, Inc.                         com  002567105   9750    429900 SH        Sole             310700        119200
+Ace Comm. Corp.                      com  004404109   3741   1350376 SH        Sole             928976        421400
+Adams Respiratory Therapeutics       com  00635p107  34689    872246 SH        Sole             502632        369614
+Adeza Biomedical Corp.               com  006864102  23122   1094257 SH        Sole             778138        316119
+Aeroflex Inc.                        com  007768104    578     42100 SH        Sole              32400          9700
+Akamai Technologies Com              com  00971t101   1410     42877 SH        Sole              16427         26450
+Aldila Inc.                          com  014384200  12031    362381 SH        Sole             263938         98443
+Allion Healthcare, Inc.              com  019615103   6072    447819 SH        Sole             264644        183175
+Allis Chalmers Energy                com  019645506   3782    277500 SH        Sole             191400         86100
+Alpha Pro Tech Ltd.                  com  020772109   2541   1004400 SH        Sole             681300        323100
+American Science & Engr. Inc.        com  029429107  15349    164339 SH        Sole             115815         48524
+American Software                    com  029683109   1560    214600 SH        Sole             148000         66600
+Answerthink, Inc.                    com  036916104   2773    431200 SH        Sole             415000         16200
+Applix Inc.                          com  038316105     91     11900 SH        Sole                            11900
+Arena Resources, Inc.                com  040049108   6380    182800 SH        Sole             131800         51000
+Arthrocare Corp.                     com  043136100  28043    586424 SH        Sole             419098        167326
+Aspect Medical Systems               com  045235108  12324    449126 SH        Sole             318132        130994
+Aspreva Pharmaceutical ADR           com  04538t109  43453   1745818 SH        Sole            1050740        695078
+Astec Inds Inc.                      com  046224101   1605     44700 SH        Sole              41100          3600
+Astronics Corp.                      com  046433108    698     51750 SH        Sole              35700         16050
+Atheros Communications               com  04743p108    477     18200 SH        Sole              14000          4200
+Audio Codes ADR                      com  m15342104  17725   1282553 SH        Sole             918013        364540
+BTU International, Inc.              com  056032105   3845    234000 SH        Sole             161300         72700
+Barrett Business Services            com  068463108   9014    333855 SH        Sole             225413        108442
+Bentley Pharmaceuticals, Inc.        com  082657107   3412    259494 SH        Sole             178658         80836
+Bitstream, Inc.                      com  091736108   1892    254600 SH        Sole             175600         79000
+Bodisen Biotech ADR                  com  096892104   9112    577800 SH        Sole             465200        112600
+Bronco Drilling Company, Inc.        com  112211107  33675   1280433 SH        Sole             731569        548864
+Bucyrus Int'l Inc.                   com  118759109  21109    438035 SH        Sole             310350        127685
+CRA Int'l Inc.                       com  12618t105  15750    319738 SH        Sole             225492         94246
+CTRIP Com Int'l Ltd ADR              com  22943f100  20880    252484 SH        Sole             174720         77764
+Carrizo Oil & Company, Inc.          com  144577103  35677   1372716 SH        Sole             972425        400291
+Cellpoint, Inc.                      com  15115e109      0     11875 SH        Sole                            11875
+Centene Corp.                        com  15135B101  16451    563964 SH        Sole             378507        185457
+Central European Distribution        com  153435102  28985    753834 SH        Sole             516396        237438
+Central European Media Enterpr       com  g20045202    734     10700 SH        Sole               8200          2500
+Ceradyne, Inc.                       com  156710105  67671   1356135 SH        Sole             883085        473050
+Charles & Colvard Ltd.               com  159765106  10385    958907 SH        Sole             675820        283087
+Cheesecake Factory, Inc.             com  163072101    582     15548 SH        Sole              11957          3591
+China Techfaith Wireless             com  169424108   1542    106500 SH        Sole             106500
+Cogent, Inc.                         com  19239y108    320     17425 SH        Sole                            17425
+Comarco, Inc.                        com  200080109   4217    368900 SH        Sole             242400        126500
+Comtech Group, Inc.                  com  205821200   1229    122900 SH        Sole             122900
+Comtech Telecomm Corp.               com  205826209    223      7644 SH        Sole                             7644
+Concur Technologies                  com  206708109  19819   1069561 SH        Sole             760300        309261
+Criticare Sys Corp.                  com  226901106   3641    800300 SH        Sole             552500        247800
+Crocs, Inc.                          com  227046109  10835    430801 SH        Sole             313801        117000
+Cybersource Corp.                    com  23251J106  11835   1060456 SH        Sole             678617        381839
+Cytyc Corp.                          com  232946103    544     19308 SH        Sole              14847          4461
+DXP Enterprises, Inc.                com  233377407   2802     80600 SH        Sole              55600         25000
+Datatrak International Inc.          com  238134100   3245    442087 SH        Sole             303411        138676
+Dawson Geophysical Co.               com  239359102   5535    200554 SH        Sole             133763         66791
+Deltathree, Inc.                     com  24783n102   1762    607500 SH        Sole             417700        189800
+Desarrolladora Homex ADR             com  25030w100  17128    484794 SH        Sole             347651        137143
+Dril Quip Inc.                       com  262037104  28605    403736 SH        Sole             293442        110294
+Dynamic Materials Corp.              com  267888105   5270    147872 SH        Sole             114394         33478
+ENGlobal Corp. (RESTRICTED)          com  000000000   1315     90000 SH        Sole              90000
+Edge Petroleum                       com  279862106   4802    192251 SH        Sole             132595         59656
+Edgewater Tech                       com  280358102   3202    489600 SH        Sole             335900        153700
+Ediets.com, Inc.                     com  280597105   1560    292764 SH        Sole             202018         90746
+Electronic Clearing House, Inc.      com  285562500    903     70800 SH        Sole              48700         22100
+Enbridge Energy Management Llc       com  ckc50x106      0     29643 SH        Sole                            29643
+Englobal Corp.                       com  293306106   6716    459711 SH        Sole             228458        231253
+Essex Corp.                          com  296744105  18454    838036 SH        Sole             597100        240936
+Euronet Worldwide, Inc.              com  298736109  35070    927054 SH        Sole             519811        407243
+F5 Networks, Inc.                    com  315616102   1646     22700 SH        Sole              21000          1700
+Falconstar Software                  com  306137100  15241   1612831 SH        Sole            1111700        501131
+First Advantage Corp CL A            com  31845f100   1771     73250 SH        Sole              50594         22656
+First Horizon Pharmaceutical C       com  32051K106  17937    711521 SH        Sole             505099        206422
+Flotek (RESTRICTED)                  com  000000000    627     25000 SH        Sole              25000
+Flotek Inds Inc.                     com  343389102   5157    205465 SH        Sole              99900        105565
+Focus Media Hldg Ltd ADR             com  34415V109  93437   1610429 SH        Sole            1031833        578596
+Foxhollow Technology                 com  35166a103   4726    154700 SH        Sole             112200         42500
+Fuel-Tech N.V.                       com  359523107  13117    820338 SH        Sole             535184        285154
+GMX Resources Inc.                   com  38011M108  12287    328087 SH        Sole             227074        101013
+Gaiam, Inc.                          com  36268q103   1136     70500 SH        Sole              45800         24700
+General Electric Co.                 com  369604103    530     15249 SH        Sole                            15249
+Glenayre Technologies                com  377899109  14298   2723362 SH        Sole            1919771        803591
+Golden Eagle Minerals, Inc.          com  380961102      0     10000 SH        Sole                            10000
+Golf Galaxy, Inc.                    com  381639103   4534    207493 SH        Sole             143000         64493
+Graham Corp.                         com  384556106   2724    139700 SH        Sole              96000         43700
+Hartmarx Corp.                       com  417119104     92     10696 SH        Sole                            10696
+Health Grades Inc.                   com  42218q102   2979    558838 SH        Sole             384257        174581
+Healthextras, Inc.                   com  422211102  36179   1024898 SH        Sole             582916        441982
+Healthspring, Inc.                   com  42224n101   1385     74400 SH        Sole              68700          5700
+Healthways, Inc.                     com  422245100  16227    318558 SH        Sole             218429        100129
+Helmerich & Payne                    com  423452101   1117     16000 SH        Sole               6900          9100
+Henry Brothers Electronics, In       com  426286100   1930    304000 SH        Sole             209400         94600
+Hercules Offshore                    com  427093109   8190    240825 SH        Sole             174725         66100
+    
+A D A M Inc.                         com  00088U108   2592    367700 SH        Sole             253100        114600
+AAR Corp.                            com  000361105    367     12900 SH        Sole               9900          3000
+ASV Inc.                             com  001963107  47310   1468334 SH        Sole             896744        571590
+ATP Oil & Gas Corp.                  com  00208j108  27316    622097 SH        Sole             444775        177322
+Abaxis, Inc.                         com  002567105   9750    429900 SH        Sole             310700        119200
+Ace Comm. Corp.                      com  004404109   3741   1350376 SH        Sole             928976        421400
+Adams Respiratory Therapeutics       com  00635p107  34689    872246 SH        Sole             502632        369614
+Adeza Biomedical Corp.               com  006864102  23122   1094257 SH        Sole             778138        316119
+Aeroflex Inc.                        com  007768104    578     42100 SH        Sole              32400          9700
+Akamai Technologies Com              com  00971t101   1410     42877 SH        Sole              16427         26450
+Aldila Inc.                          com  014384200  12031    362381 SH        Sole             263938         98443
+Allion Healthcare, Inc.              com  019615103   6072    447819 SH        Sole             264644        183175
+Allis Chalmers Energy                com  019645506   3782    277500 SH        Sole             191400         86100
+Alpha Pro Tech Ltd.                  com  020772109   2541   1004400 SH        Sole             681300        323100
+American Science & Engr. Inc.        com  029429107  15349    164339 SH        Sole             115815         48524
+American Software                    com  029683109   1560    214600 SH        Sole             148000         66600
+Answerthink, Inc.                    com  036916104   2773    431200 SH        Sole             415000         16200
+Applix Inc.                          com  038316105     91     11900 SH        Sole                            11900
+Arena Resources, Inc.                com  040049108   6380    182800 SH        Sole             131800         51000
+Arthrocare Corp.                     com  043136100  28043    586424 SH        Sole             419098        167326
+Aspect Medical Systems               com  045235108  12324    449126 SH        Sole             318132        130994
+Aspreva Pharmaceutical ADR           com  04538t109  43453   1745818 SH        Sole            1050740        695078
+Astec Inds Inc.                      com  046224101   1605     44700 SH        Sole              41100          3600
+Astronics Corp.                      com  046433108    698     51750 SH        Sole              35700         16050
+Atheros Communications               com  04743p108    477     18200 SH        Sole              14000          4200
+Audio Codes ADR                      com  m15342104  17725   1282553 SH        Sole             918013        364540
+BTU International, Inc.              com  056032105   3845    234000 SH        Sole             161300         72700
+Barrett Business Services            com  068463108   9014    333855 SH        Sole             225413        108442
+Bentley Pharmaceuticals, Inc.        com  082657107   3412    259494 SH        Sole             178658         80836
+Bitstream, Inc.                      com  091736108   1892    254600 SH        Sole             175600         79000
+Bodisen Biotech ADR                  com  096892104   9112    577800 SH        Sole             465200        112600
+Bronco Drilling Company, Inc.        com  112211107  33675   1280433 SH        Sole             731569        548864
+Bucyrus Int'l Inc.                   com  118759109  21109    438035 SH        Sole             310350        127685
+CRA Int'l Inc.                       com  12618t105  15750    319738 SH        Sole             225492         94246
+CTRIP Com Int'l Ltd ADR              com  22943f100  20880    252484 SH        Sole             174720         77764
+Carrizo Oil & Company, Inc.          com  144577103  35677   1372716 SH        Sole             972425        400291
+Cellpoint, Inc.                      com  15115e109      0     11875 SH        Sole                            11875
+Centene Corp.                        com  15135B101  16451    563964 SH        Sole             378507        185457
+Central European Distribution        com  153435102  28985    753834 SH        Sole             516396        237438
+Central European Media Enterpr       com  g20045202    734     10700 SH        Sole               8200          2500
+Ceradyne, Inc.                       com  156710105  67671   1356135 SH        Sole             883085        473050
+Charles & Colvard Ltd.               com  159765106  10385    958907 SH        Sole             675820        283087
+Cheesecake Factory, Inc.             com  163072101    582     15548 SH        Sole              11957          3591
+China Techfaith Wireless             com  169424108   1542    106500 SH        Sole             106500
+Cogent, Inc.                         com  19239y108    320     17425 SH        Sole                            17425
+Comarco, Inc.                        com  200080109   4217    368900 SH        Sole             242400        126500
+Comtech Group, Inc.                  com  205821200   1229    122900 SH        Sole             122900
+Comtech Telecomm Corp.               com  205826209    223      7644 SH        Sole                             7644
+Concur Technologies                  com  206708109  19819   1069561 SH        Sole             760300        309261
+Criticare Sys Corp.                  com  226901106   3641    800300 SH        Sole             552500        247800
+Crocs, Inc.                          com  227046109  10835    430801 SH        Sole             313801        117000
+Cybersource Corp.                    com  23251J106  11835   1060456 SH        Sole             678617        381839
+Cytyc Corp.                          com  232946103    544     19308 SH        Sole              14847          4461
+DXP Enterprises, Inc.                com  233377407   2802     80600 SH        Sole              55600         25000
+Datatrak International Inc.          com  238134100   3245    442087 SH        Sole             303411        138676
+Dawson Geophysical Co.               com  239359102   5535    200554 SH        Sole             133763         66791
+Deltathree, Inc.                     com  24783n102   1762    607500 SH        Sole             417700        189800
+Desarrolladora Homex ADR             com  25030w100  17128    484794 SH        Sole             347651        137143
+Dril Quip Inc.                       com  262037104  28605    403736 SH        Sole             293442        110294
+Dynamic Materials Corp.              com  267888105   5270    147872 SH        Sole             114394         33478
+ENGlobal Corp. (RESTRICTED)          com  000000000   1315     90000 SH        Sole              90000
+Edge Petroleum                       com  279862106   4802    192251 SH        Sole             132595         59656
+Edgewater Tech                       com  280358102   3202    489600 SH        Sole             335900        153700
+Ediets.com, Inc.                     com  280597105   1560    292764 SH        Sole             202018         90746
+Electronic Clearing House, Inc.      com  285562500    903     70800 SH        Sole              48700         22100
+Enbridge Energy Management Llc       com  ckc50x106      0     29643 SH        Sole                            29643
+Englobal Corp.                       com  293306106   6716    459711 SH        Sole             228458        231253
+Essex Corp.                          com  296744105  18454    838036 SH        Sole             597100        240936
+Euronet Worldwide, Inc.              com  298736109  35070    927054 SH        Sole             519811        407243
+F5 Networks, Inc.                    com  315616102   1646     22700 SH        Sole              21000          1700
+Falconstar Software                  com  306137100  15241   1612831 SH        Sole            1111700        501131
+First Advantage Corp CL A            com  31845f100   1771     73250 SH        Sole              50594         22656
+First Horizon Pharmaceutical C       com  32051K106  17937    711521 SH        Sole             505099        206422
+Flotek (RESTRICTED)                  com  000000000    627     25000 SH        Sole              25000
+Flotek Inds Inc.                     com  343389102   5157    205465 SH        Sole              99900        105565
+Focus Media Hldg Ltd ADR             com  34415V109  93437   1610429 SH        Sole            1031833        578596
+Foxhollow Technology                 com  35166a103   4726    154700 SH        Sole             112200         42500
+Fuel-Tech N.V.                       com  359523107  13117    820338 SH        Sole             535184        285154
+GMX Resources Inc.                   com  38011M108  12287    328087 SH        Sole             227074        101013
+Gaiam, Inc.                          com  36268q103   1136     70500 SH        Sole              45800         24700
+General Electric Co.                 com  369604103    530     15249 SH        Sole                            15249
+Glenayre Technologies                com  377899109  14298   2723362 SH        Sole            1919771        803591
+Golden Eagle Minerals, Inc.          com  380961102      0     10000 SH        Sole                            10000
+Golf Galaxy, Inc.                    com  381639103   4534    207493 SH        Sole             143000         64493
+Graham Corp.                         com  384556106   2724    139700 SH        Sole              96000         43700
+Hartmarx Corp.                       com  417119104     92     10696 SH        Sole                            10696
+Health Grades Inc.                   com  42218q102   2979    558838 SH        Sole             384257        174581
+Healthextras, Inc.                   com  422211102  36179   1024898 SH        Sole             582916        441982
+Healthspring, Inc.                   com  42224n101   1385     74400 SH        Sole              68700          5700
+Healthways, Inc.                     com  422245100  16227    318558 SH        Sole             218429        100129
+Helmerich & Payne                    com  423452101   1117     16000 SH        Sole               6900          9100
+Henry Brothers Electronics, In       com  426286100   1930    304000 SH        Sole             209400         94600
+Hercules Offshore                    com  427093109   8190    240825 SH        Sole             174725         66100
+   
+A D A M Inc.                         com  00088U108   2592    367700 SH        Sole             253100        114600
+AAR Corp.                            com  000361105    367     12900 SH        Sole               9900          3000
+ASV Inc.                             com  001963107  47310   1468334 SH        Sole             896744        571590
+ATP Oil & Gas Corp.                  com  00208j108  27316    622097 SH        Sole             444775        177322
+Abaxis, Inc.                         com  002567105   9750    429900 SH        Sole             310700        119200
+Ace Comm. Corp.                      com  004404109   3741   1350376 SH        Sole             928976        421400
+Adams Respiratory Therapeutics       com  00635p107  34689    872246 SH        Sole             502632        369614
+Adeza Biomedical Corp.               com  006864102  23122   1094257 SH        Sole             778138        316119
+Aeroflex Inc.                        com  007768104    578     42100 SH        Sole              32400          9700
+Akamai Technologies Com              com  00971t101   1410     42877 SH        Sole              16427         26450
+Aldila Inc.                          com  014384200  12031    362381 SH        Sole             263938         98443
+Allion Healthcare, Inc.              com  019615103   6072    447819 SH        Sole             264644        183175
+Allis Chalmers Energy                com  019645506   3782    277500 SH        Sole             191400         86100
+Alpha Pro Tech Ltd.                  com  020772109   2541   1004400 SH        Sole             681300        323100
+American Science & Engr. Inc.        com  029429107  15349    164339 SH        Sole             115815         48524
+American Software                    com  029683109   1560    214600 SH        Sole             148000         66600
+Answerthink, Inc.                    com  036916104   2773    431200 SH        Sole             415000         16200
+Applix Inc.                          com  038316105     91     11900 SH        Sole                            11900
+Arena Resources, Inc.                com  040049108   6380    182800 SH        Sole             131800         51000
+Arthrocare Corp.                     com  043136100  28043    586424 SH        Sole             419098        167326
+Aspect Medical Systems               com  045235108  12324    449126 SH        Sole             318132        130994
+Aspreva Pharmaceutical ADR           com  04538t109  43453   1745818 SH        Sole            1050740        695078
+Astec Inds Inc.                      com  046224101   1605     44700 SH        Sole              41100          3600
+Astronics Corp.                      com  046433108    698     51750 SH        Sole              35700         16050
+Atheros Communications               com  04743p108    477     18200 SH        Sole              14000          4200
+Audio Codes ADR                      com  m15342104  17725   1282553 SH        Sole             918013        364540
+BTU International, Inc.              com  056032105   3845    234000 SH        Sole             161300         72700
+Barrett Business Services            com  068463108   9014    333855 SH        Sole             225413        108442
+Bentley Pharmaceuticals, Inc.        com  082657107   3412    259494 SH        Sole             178658         80836
+Bitstream, Inc.                      com  091736108   1892    254600 SH        Sole             175600         79000
+Bodisen Biotech ADR                  com  096892104   9112    577800 SH        Sole             465200        112600
+Bronco Drilling Company, Inc.        com  112211107  33675   1280433 SH        Sole             731569        548864
+Bucyrus Int'l Inc.                   com  118759109  21109    438035 SH        Sole             310350        127685
+CRA Int'l Inc.                       com  12618t105  15750    319738 SH        Sole             225492         94246
+CTRIP Com Int'l Ltd ADR              com  22943f100  20880    252484 SH        Sole             174720         77764
+Carrizo Oil & Company, Inc.          com  144577103  35677   1372716 SH        Sole             972425        400291
+Cellpoint, Inc.                      com  15115e109      0     11875 SH        Sole                            11875
+Centene Corp.                        com  15135B101  16451    563964 SH        Sole             378507        185457
+Central European Distribution        com  153435102  28985    753834 SH        Sole             516396        237438
+Central European Media Enterpr       com  g20045202    734     10700 SH        Sole               8200          2500
+Ceradyne, Inc.                       com  156710105  67671   1356135 SH        Sole             883085        473050
+Charles & Colvard Ltd.               com  159765106  10385    958907 SH        Sole             675820        283087
+Cheesecake Factory, Inc.             com  163072101    582     15548 SH        Sole              11957          3591
+China Techfaith Wireless             com  169424108   1542    106500 SH        Sole             106500
+Cogent, Inc.                         com  19239y108    320     17425 SH        Sole                            17425
+Comarco, Inc.                        com  200080109   4217    368900 SH        Sole             242400        126500
+Comtech Group, Inc.                  com  205821200   1229    122900 SH        Sole             122900
+Comtech Telecomm Corp.               com  205826209    223      7644 SH        Sole                             7644
+Concur Technologies                  com  206708109  19819   1069561 SH        Sole             760300        309261
+Criticare Sys Corp.                  com  226901106   3641    800300 SH        Sole             552500        247800
+Crocs, Inc.                          com  227046109  10835    430801 SH        Sole             313801        117000
+Cybersource Corp.                    com  23251J106  11835   1060456 SH        Sole             678617        381839
+Cytyc Corp.                          com  232946103    544     19308 SH        Sole              14847          4461
+DXP Enterprises, Inc.                com  233377407   2802     80600 SH        Sole              55600         25000
+Datatrak International Inc.          com  238134100   3245    442087 SH        Sole             303411        138676
+Dawson Geophysical Co.               com  239359102   5535    200554 SH        Sole             133763         66791
+Deltathree, Inc.                     com  24783n102   1762    607500 SH        Sole             417700        189800
+Desarrolladora Homex ADR             com  25030w100  17128    484794 SH        Sole             347651        137143
+Dril Quip Inc.                       com  262037104  28605    403736 SH        Sole             293442        110294
+Dynamic Materials Corp.              com  267888105   5270    147872 SH        Sole             114394         33478
+ENGlobal Corp. (RESTRICTED)          com  000000000   1315     90000 SH        Sole              90000
+Edge Petroleum                       com  279862106   4802    192251 SH        Sole             132595         59656
+Edgewater Tech                       com  280358102   3202    489600 SH        Sole             335900        153700
+Ediets.com, Inc.                     com  280597105   1560    292764 SH        Sole             202018         90746
+Electronic Clearing House, Inc.      com  285562500    903     70800 SH        Sole              48700         22100
+Enbridge Energy Management Llc       com  ckc50x106      0     29643 SH        Sole                            29643
+Englobal Corp.                       com  293306106   6716    459711 SH        Sole             228458        231253
+Essex Corp.                          com  296744105  18454    838036 SH        Sole             597100        240936
+Euronet Worldwide, Inc.              com  298736109  35070    927054 SH        Sole             519811        407243
+F5 Networks, Inc.                    com  315616102   1646     22700 SH        Sole              21000          1700
+Falconstar Software                  com  306137100  15241   1612831 SH        Sole            1111700        501131
+First Advantage Corp CL A            com  31845f100   1771     73250 SH        Sole              50594         22656
+First Horizon Pharmaceutical C       com  32051K106  17937    711521 SH        Sole             505099        206422
+Flotek (RESTRICTED)                  com  000000000    627     25000 SH        Sole              25000
+Flotek Inds Inc.                     com  343389102   5157    205465 SH        Sole              99900        105565
+Focus Media Hldg Ltd ADR             com  34415V109  93437   1610429 SH        Sole            1031833        578596
+Foxhollow Technology                 com  35166a103   4726    154700 SH        Sole             112200         42500
+Fuel-Tech N.V.                       com  359523107  13117    820338 SH        Sole             535184        285154
+GMX Resources Inc.                   com  38011M108  12287    328087 SH        Sole             227074        101013
+Gaiam, Inc.                          com  36268q103   1136     70500 SH        Sole              45800         24700
+General Electric Co.                 com  369604103    530     15249 SH        Sole                            15249
+Glenayre Technologies                com  377899109  14298   2723362 SH        Sole            1919771        803591
+Golden Eagle Minerals, Inc.          com  380961102      0     10000 SH        Sole                            10000
+Golf Galaxy, Inc.                    com  381639103   4534    207493 SH        Sole             143000         64493
+Graham Corp.                         com  384556106   2724    139700 SH        Sole              96000         43700
+Hartmarx Corp.                       com  417119104     92     10696 SH        Sole                            10696
+Health Grades Inc.                   com  42218q102   2979    558838 SH        Sole             384257        174581
+Healthextras, Inc.                   com  422211102  36179   1024898 SH        Sole             582916        441982
+Healthspring, Inc.                   com  42224n101   1385     74400 SH        Sole              68700          5700
+Healthways, Inc.                     com  422245100  16227    318558 SH        Sole             218429        100129
+Helmerich & Payne                    com  423452101   1117     16000 SH        Sole               6900          9100
+Henry Brothers Electronics, In       com  426286100   1930    304000 SH        Sole             209400         94600
+Hercules Offshore                    com  427093109   8190    240825 SH        Sole             174725         66100
+  
+A D A M Inc.                         com  00088U108   2592    367700 SH        Sole             253100        114600
+AAR Corp.                            com  000361105    367     12900 SH        Sole               9900          3000
+ASV Inc.                             com  001963107  47310   1468334 SH        Sole             896744        571590
+ATP Oil & Gas Corp.                  com  00208j108  27316    622097 SH        Sole             444775        177322
+Abaxis, Inc.                         com  002567105   9750    429900 SH        Sole             310700        119200
+Ace Comm. Corp.                      com  004404109   3741   1350376 SH        Sole             928976        421400
+Adams Respiratory Therapeutics       com  00635p107  34689    872246 SH        Sole             502632        369614
+Adeza Biomedical Corp.               com  006864102  23122   1094257 SH        Sole             778138        316119
+Aeroflex Inc.                        com  007768104    578     42100 SH        Sole              32400          9700
+Akamai Technologies Com              com  00971t101   1410     42877 SH        Sole              16427         26450
+Aldila Inc.                          com  014384200  12031    362381 SH        Sole             263938         98443
+Allion Healthcare, Inc.              com  019615103   6072    447819 SH        Sole             264644        183175
+Allis Chalmers Energy                com  019645506   3782    277500 SH        Sole             191400         86100
+Alpha Pro Tech Ltd.                  com  020772109   2541   1004400 SH        Sole             681300        323100
+American Science & Engr. Inc.        com  029429107  15349    164339 SH        Sole             115815         48524
+American Software                    com  029683109   1560    214600 SH        Sole             148000         66600
+Answerthink, Inc.                    com  036916104   2773    431200 SH        Sole             415000         16200
+Applix Inc.                          com  038316105     91     11900 SH        Sole                            11900
+Arena Resources, Inc.                com  040049108   6380    182800 SH        Sole             131800         51000
+Arthrocare Corp.                     com  043136100  28043    586424 SH        Sole             419098        167326
+Aspect Medical Systems               com  045235108  12324    449126 SH        Sole             318132        130994
+Aspreva Pharmaceutical ADR           com  04538t109  43453   1745818 SH        Sole            1050740        695078
+Astec Inds Inc.                      com  046224101   1605     44700 SH        Sole              41100          3600
+Astronics Corp.                      com  046433108    698     51750 SH        Sole              35700         16050
+Atheros Communications               com  04743p108    477     18200 SH        Sole              14000          4200
+Audio Codes ADR                      com  m15342104  17725   1282553 SH        Sole             918013        364540
+BTU International, Inc.              com  056032105   3845    234000 SH        Sole             161300         72700
+Barrett Business Services            com  068463108   9014    333855 SH        Sole             225413        108442
+Bentley Pharmaceuticals, Inc.        com  082657107   3412    259494 SH        Sole             178658         80836
+Bitstream, Inc.                      com  091736108   1892    254600 SH        Sole             175600         79000
+Bodisen Biotech ADR                  com  096892104   9112    577800 SH        Sole             465200        112600
+Bronco Drilling Company, Inc.        com  112211107  33675   1280433 SH        Sole             731569        548864
+Bucyrus Int'l Inc.                   com  118759109  21109    438035 SH        Sole             310350        127685
+CRA Int'l Inc.                       com  12618t105  15750    319738 SH        Sole             225492         94246
+CTRIP Com Int'l Ltd ADR              com  22943f100  20880    252484 SH        Sole             174720         77764
+Carrizo Oil & Company, Inc.          com  144577103  35677   1372716 SH        Sole             972425        400291
+Cellpoint, Inc.                      com  15115e109      0     11875 SH        Sole                            11875
+Centene Corp.                        com  15135B101  16451    563964 SH        Sole             378507        185457
+Central European Distribution        com  153435102  28985    753834 SH        Sole             516396        237438
+Central European Media Enterpr       com  g20045202    734     10700 SH        Sole               8200          2500
+Ceradyne, Inc.                       com  156710105  67671   1356135 SH        Sole             883085        473050
+Charles & Colvard Ltd.               com  159765106  10385    958907 SH        Sole             675820        283087
+Cheesecake Factory, Inc.             com  163072101    582     15548 SH        Sole              11957          3591
+China Techfaith Wireless             com  169424108   1542    106500 SH        Sole             106500
+Cogent, Inc.                         com  19239y108    320     17425 SH        Sole                            17425
+Comarco, Inc.                        com  200080109   4217    368900 SH        Sole             242400        126500
+Comtech Group, Inc.                  com  205821200   1229    122900 SH        Sole             122900
+Comtech Telecomm Corp.               com  205826209    223      7644 SH        Sole                             7644
+Concur Technologies                  com  206708109  19819   1069561 SH        Sole             760300        309261
+Criticare Sys Corp.                  com  226901106   3641    800300 SH        Sole             552500        247800
+Crocs, Inc.                          com  227046109  10835    430801 SH        Sole             313801        117000
+Cybersource Corp.                    com  23251J106  11835   1060456 SH        Sole             678617        381839
+Cytyc Corp.                          com  232946103    544     19308 SH        Sole              14847          4461
+DXP Enterprises, Inc.                com  233377407   2802     80600 SH        Sole              55600         25000
+Datatrak International Inc.          com  238134100   3245    442087 SH        Sole             303411        138676
+Dawson Geophysical Co.               com  239359102   5535    200554 SH        Sole             133763         66791
+Deltathree, Inc.                     com  24783n102   1762    607500 SH        Sole             417700        189800
+Desarrolladora Homex ADR             com  25030w100  17128    484794 SH        Sole             347651        137143
+Dril Quip Inc.                       com  262037104  28605    403736 SH        Sole             293442        110294
+Dynamic Materials Corp.              com  267888105   5270    147872 SH        Sole             114394         33478
+ENGlobal Corp. (RESTRICTED)          com  000000000   1315     90000 SH        Sole              90000
+Edge Petroleum                       com  279862106   4802    192251 SH        Sole             132595         59656
+Edgewater Tech                       com  280358102   3202    489600 SH        Sole             335900        153700
+Ediets.com, Inc.                     com  280597105   1560    292764 SH        Sole             202018         90746
+Electronic Clearing House, Inc.      com  285562500    903     70800 SH        Sole              48700         22100
+Enbridge Energy Management Llc       com  ckc50x106      0     29643 SH        Sole                            29643
+Englobal Corp.                       com  293306106   6716    459711 SH        Sole             228458        231253
+Essex Corp.                          com  296744105  18454    838036 SH        Sole             597100        240936
+Euronet Worldwide, Inc.              com  298736109  35070    927054 SH        Sole             519811        407243
+F5 Networks, Inc.                    com  315616102   1646     22700 SH        Sole              21000          1700
+Falconstar Software                  com  306137100  15241   1612831 SH        Sole            1111700        501131
+First Advantage Corp CL A            com  31845f100   1771     73250 SH        Sole              50594         22656
+First Horizon Pharmaceutical C       com  32051K106  17937    711521 SH        Sole             505099        206422
+Flotek (RESTRICTED)                  com  000000000    627     25000 SH        Sole              25000
+Flotek Inds Inc.                     com  343389102   5157    205465 SH        Sole              99900        105565
+Focus Media Hldg Ltd ADR             com  34415V109  93437   1610429 SH        Sole            1031833        578596
+Foxhollow Technology                 com  35166a103   4726    154700 SH        Sole             112200         42500
+Fuel-Tech N.V.                       com  359523107  13117    820338 SH        Sole             535184        285154
+GMX Resources Inc.                   com  38011M108  12287    328087 SH        Sole             227074        101013
+Gaiam, Inc.                          com  36268q103   1136     70500 SH        Sole              45800         24700
+General Electric Co.                 com  369604103    530     15249 SH        Sole                            15249
+Glenayre Technologies                com  377899109  14298   2723362 SH        Sole            1919771        803591
+Golden Eagle Minerals, Inc.          com  380961102      0     10000 SH        Sole                            10000
+Golf Galaxy, Inc.                    com  381639103   4534    207493 SH        Sole             143000         64493
+Graham Corp.                         com  384556106   2724    139700 SH        Sole              96000         43700
+Hartmarx Corp.                       com  417119104     92     10696 SH        Sole                            10696
+Health Grades Inc.                   com  42218q102   2979    558838 SH        Sole             384257        174581
+Healthextras, Inc.                   com  422211102  36179   1024898 SH        Sole             582916        441982
+Healthspring, Inc.                   com  42224n101   1385     74400 SH        Sole              68700          5700
+Healthways, Inc.                     com  422245100  16227    318558 SH        Sole             218429        100129
+Helmerich & Payne                    com  423452101   1117     16000 SH        Sole               6900          9100
+Henry Brothers Electronics, In       com  426286100   1930    304000 SH        Sole             209400         94600
+Hercules Offshore                    com  427093109   8190    240825 SH        Sole             174725         66100
+ 
+A D A M Inc.                         com  00088U108   2592    367700 SH        Sole             253100        114600
+AAR Corp.                            com  000361105    367     12900 SH        Sole               9900          3000
+ASV Inc.                             com  001963107  47310   1468334 SH        Sole             896744        571590
+ATP Oil & Gas Corp.                  com  00208j108  27316    622097 SH        Sole             444775        177322
+Abaxis, Inc.                         com  002567105   9750    429900 SH        Sole             310700        119200
+Ace Comm. Corp.                      com  004404109   3741   1350376 SH        Sole             928976        421400
+Adams Respiratory Therapeutics       com  00635p107  34689    872246 SH        Sole             502632        369614
+Adeza Biomedical Corp.               com  006864102  23122   1094257 SH        Sole             778138        316119
+Aeroflex Inc.                        com  007768104    578     42100 SH        Sole              32400          9700
+Akamai Technologies Com              com  00971t101   1410     42877 SH        Sole              16427         26450
+Aldila Inc.                          com  014384200  12031    362381 SH        Sole             263938         98443
+Allion Healthcare, Inc.              com  019615103   6072    447819 SH        Sole             264644        183175
+Allis Chalmers Energy                com  019645506   3782    277500 SH        Sole             191400         86100
+Alpha Pro Tech Ltd.                  com  020772109   2541   1004400 SH        Sole             681300        323100
+American Science & Engr. Inc.        com  029429107  15349    164339 SH        Sole             115815         48524
+American Software                    com  029683109   1560    214600 SH        Sole             148000         66600
+Answerthink, Inc.                    com  036916104   2773    431200 SH        Sole             415000         16200
+Applix Inc.                          com  038316105     91     11900 SH        Sole                            11900
+Arena Resources, Inc.                com  040049108   6380    182800 SH        Sole             131800         51000
+Arthrocare Corp.                     com  043136100  28043    586424 SH        Sole             419098        167326
+Aspect Medical Systems               com  045235108  12324    449126 SH        Sole             318132        130994
+Aspreva Pharmaceutical ADR           com  04538t109  43453   1745818 SH        Sole            1050740        695078
+Astec Inds Inc.                      com  046224101   1605     44700 SH        Sole              41100          3600
+Astronics Corp.                      com  046433108    698     51750 SH        Sole              35700         16050
+Atheros Communications               com  04743p108    477     18200 SH        Sole              14000          4200
+Audio Codes ADR                      com  m15342104  17725   1282553 SH        Sole             918013        364540
+BTU International, Inc.              com  056032105   3845    234000 SH        Sole             161300         72700
+Barrett Business Services            com  068463108   9014    333855 SH        Sole             225413        108442
+Bentley Pharmaceuticals, Inc.        com  082657107   3412    259494 SH        Sole             178658         80836
+Bitstream, Inc.                      com  091736108   1892    254600 SH        Sole             175600         79000
+Bodisen Biotech ADR                  com  096892104   9112    577800 SH        Sole             465200        112600
+Bronco Drilling Company, Inc.        com  112211107  33675   1280433 SH        Sole             731569        548864
+Bucyrus Int'l Inc.                   com  118759109  21109    438035 SH        Sole             310350        127685
+CRA Int'l Inc.                       com  12618t105  15750    319738 SH        Sole             225492         94246
+CTRIP Com Int'l Ltd ADR              com  22943f100  20880    252484 SH        Sole             174720         77764
+Carrizo Oil & Company, Inc.          com  144577103  35677   1372716 SH        Sole             972425        400291
+Cellpoint, Inc.                      com  15115e109      0     11875 SH        Sole                            11875
+Centene Corp.                        com  15135B101  16451    563964 SH        Sole             378507        185457
+Central European Distribution        com  153435102  28985    753834 SH        Sole             516396        237438
+Central European Media Enterpr       com  g20045202    734     10700 SH        Sole               8200          2500
+Ceradyne, Inc.                       com  156710105  67671   1356135 SH        Sole             883085        473050
+Charles & Colvard Ltd.               com  159765106  10385    958907 SH        Sole             675820        283087
+Cheesecake Factory, Inc.             com  163072101    582     15548 SH        Sole              11957          3591
+China Techfaith Wireless             com  169424108   1542    106500 SH        Sole             106500
+Cogent, Inc.                         com  19239y108    320     17425 SH        Sole                            17425
+Comarco, Inc.                        com  200080109   4217    368900 SH        Sole             242400        126500
+Comtech Group, Inc.                  com  205821200   1229    122900 SH        Sole             122900
+Comtech Telecomm Corp.               com  205826209    223      7644 SH        Sole                             7644
+Concur Technologies                  com  206708109  19819   1069561 SH        Sole             760300        309261
+Criticare Sys Corp.                  com  226901106   3641    800300 SH        Sole             552500        247800
+Crocs, Inc.                          com  227046109  10835    430801 SH        Sole             313801        117000
+Cybersource Corp.                    com  23251J106  11835   1060456 SH        Sole             678617        381839
+Cytyc Corp.                          com  232946103    544     19308 SH        Sole              14847          4461
+DXP Enterprises, Inc.                com  233377407   2802     80600 SH        Sole              55600         25000
+Datatrak International Inc.          com  238134100   3245    442087 SH        Sole             303411        138676
+Dawson Geophysical Co.               com  239359102   5535    200554 SH        Sole             133763         66791
+Deltathree, Inc.                     com  24783n102   1762    607500 SH        Sole             417700        189800
+Desarrolladora Homex ADR             com  25030w100  17128    484794 SH        Sole             347651        137143
+Dril Quip Inc.                       com  262037104  28605    403736 SH        Sole             293442        110294
+Dynamic Materials Corp.              com  267888105   5270    147872 SH        Sole             114394         33478
+ENGlobal Corp. (RESTRICTED)          com  000000000   1315     90000 SH        Sole              90000
+Edge Petroleum                       com  279862106   4802    192251 SH        Sole             132595         59656
+Edgewater Tech                       com  280358102   3202    489600 SH        Sole             335900        153700
+Ediets.com, Inc.                     com  280597105   1560    292764 SH        Sole             202018         90746
+Electronic Clearing House, Inc.      com  285562500    903     70800 SH        Sole              48700         22100
+Enbridge Energy Management Llc       com  ckc50x106      0     29643 SH        Sole                            29643
+Englobal Corp.                       com  293306106   6716    459711 SH        Sole             228458        231253
+Essex Corp.                          com  296744105  18454    838036 SH        Sole             597100        240936
+Euronet Worldwide, Inc.              com  298736109  35070    927054 SH        Sole             519811        407243
+F5 Networks, Inc.                    com  315616102   1646     22700 SH        Sole              21000          1700
+Falconstar Software                  com  306137100  15241   1612831 SH        Sole            1111700        501131
+First Advantage Corp CL A            com  31845f100   1771     73250 SH        Sole              50594         22656
+First Horizon Pharmaceutical C       com  32051K106  17937    711521 SH        Sole             505099        206422
+Flotek (RESTRICTED)                  com  000000000    627     25000 SH        Sole              25000
+Flotek Inds Inc.                     com  343389102   5157    205465 SH        Sole              99900        105565
+Focus Media Hldg Ltd ADR             com  34415V109  93437   1610429 SH        Sole            1031833        578596
+Foxhollow Technology                 com  35166a103   4726    154700 SH        Sole             112200         42500
+Fuel-Tech N.V.                       com  359523107  13117    820338 SH        Sole             535184        285154
+GMX Resources Inc.                   com  38011M108  12287    328087 SH        Sole             227074        101013
+Gaiam, Inc.                          com  36268q103   1136     70500 SH        Sole              45800         24700
+General Electric Co.                 com  369604103    530     15249 SH        Sole                            15249
+Glenayre Technologies                com  377899109  14298   2723362 SH        Sole            1919771        803591
+Golden Eagle Minerals, Inc.          com  380961102      0     10000 SH        Sole                            10000
+Golf Galaxy, Inc.                    com  381639103   4534    207493 SH        Sole             143000         64493
+Graham Corp.                         com  384556106   2724    139700 SH        Sole              96000         43700
+Hartmarx Corp.                       com  417119104     92     10696 SH        Sole                            10696
+Health Grades Inc.                   com  42218q102   2979    558838 SH        Sole             384257        174581
+Healthextras, Inc.                   com  422211102  36179   1024898 SH        Sole             582916        441982
+Healthspring, Inc.                   com  42224n101   1385     74400 SH        Sole              68700          5700
+Healthways, Inc.                     com  422245100  16227    318558 SH        Sole             218429        100129
+Helmerich & Payne                    com  423452101   1117     16000 SH        Sole               6900          9100
+Henry Brothers Electronics, In       com  426286100   1930    304000 SH        Sole             209400         94600
+Hercules Offshore                    com  427093109   8190    240825 SH        Sole             174725         66100
+
+A D A M Inc.                         com  00088U108   2592    367700 SH        Sole             253100        114600
+AAR Corp.                            com  000361105    367     12900 SH        Sole               9900          3000
+ASV Inc.                             com  001963107  47310   1468334 SH        Sole             896744        571590
+ATP Oil & Gas Corp.                  com  00208j108  27316    622097 SH        Sole             444775        177322
+Abaxis, Inc.                         com  002567105   9750    429900 SH        Sole             310700        119200
+Ace Comm. Corp.                      com  004404109   3741   1350376 SH        Sole             928976        421400
+Adams Respiratory Therapeutics       com  00635p107  34689    872246 SH        Sole             502632        369614
+Adeza Biomedical Corp.               com  006864102  23122   1094257 SH        Sole             778138        316119
+Aeroflex Inc.                        com  007768104    578     42100 SH        Sole              32400          9700
+Akamai Technologies Com              com  00971t101   1410     42877 SH        Sole              16427         26450
+Aldila Inc.                          com  014384200  12031    362381 SH        Sole             263938         98443
+Allion Healthcare, Inc.              com  019615103   6072    447819 SH        Sole             264644        183175
+Allis Chalmers Energy                com  019645506   3782    277500 SH        Sole             191400         86100
+Alpha Pro Tech Ltd.                  com  020772109   2541   1004400 SH        Sole             681300        323100
+American Science & Engr. Inc.        com  029429107  15349    164339 SH        Sole             115815         48524
+American Software                    com  029683109   1560    214600 SH        Sole             148000         66600
+Answerthink, Inc.                    com  036916104   2773    431200 SH        Sole             415000         16200
+Applix Inc.                          com  038316105     91     11900 SH        Sole                            11900
+Arena Resources, Inc.                com  040049108   6380    182800 SH        Sole             131800         51000
+Arthrocare Corp.                     com  043136100  28043    586424 SH        Sole             419098        167326
+Aspect Medical Systems               com  045235108  12324    449126 SH        Sole             318132        130994
+Aspreva Pharmaceutical ADR           com  04538t109  43453   1745818 SH        Sole            1050740        695078
+Astec Inds Inc.                      com  046224101   1605     44700 SH        Sole              41100          3600
+Astronics Corp.                      com  046433108    698     51750 SH        Sole              35700         16050
+Atheros Communications               com  04743p108    477     18200 SH        Sole              14000          4200
+Audio Codes ADR                      com  m15342104  17725   1282553 SH        Sole             918013        364540
+BTU International, Inc.              com  056032105   3845    234000 SH        Sole             161300         72700
+Barrett Business Services            com  068463108   9014    333855 SH        Sole             225413        108442
+Bentley Pharmaceuticals, Inc.        com  082657107   3412    259494 SH        Sole             178658         80836
+Bitstream, Inc.                      com  091736108   1892    254600 SH        Sole             175600         79000
+Bodisen Biotech ADR                  com  096892104   9112    577800 SH        Sole             465200        112600
+Bronco Drilling Company, Inc.        com  112211107  33675   1280433 SH        Sole             731569        548864
+Bucyrus Int'l Inc.                   com  118759109  21109    438035 SH        Sole             310350        127685
+CRA Int'l Inc.                       com  12618t105  15750    319738 SH        Sole             225492         94246
+CTRIP Com Int'l Ltd ADR              com  22943f100  20880    252484 SH        Sole             174720         77764
+Carrizo Oil & Company, Inc.          com  144577103  35677   1372716 SH        Sole             972425        400291
+Cellpoint, Inc.                      com  15115e109      0     11875 SH        Sole                            11875
+Centene Corp.                        com  15135B101  16451    563964 SH        Sole             378507        185457
+Central European Distribution        com  153435102  28985    753834 SH        Sole             516396        237438
+Central European Media Enterpr       com  g20045202    734     10700 SH        Sole               8200          2500
+Ceradyne, Inc.                       com  156710105  67671   1356135 SH        Sole             883085        473050
+Charles & Colvard Ltd.               com  159765106  10385    958907 SH        Sole             675820        283087
+Cheesecake Factory, Inc.             com  163072101    582     15548 SH        Sole              11957          3591
+China Techfaith Wireless             com  169424108   1542    106500 SH        Sole             106500
+Cogent, Inc.                         com  19239y108    320     17425 SH        Sole                            17425
+Comarco, Inc.                        com  200080109   4217    368900 SH        Sole             242400        126500
+Comtech Group, Inc.                  com  205821200   1229    122900 SH        Sole             122900
+Comtech Telecomm Corp.               com  205826209    223      7644 SH        Sole                             7644
+Concur Technologies                  com  206708109  19819   1069561 SH        Sole             760300        309261
+Criticare Sys Corp.                  com  226901106   3641    800300 SH        Sole             552500        247800
+Crocs, Inc.                          com  227046109  10835    430801 SH        Sole             313801        117000
+Cybersource Corp.                    com  23251J106  11835   1060456 SH        Sole             678617        381839
+Cytyc Corp.                          com  232946103    544     19308 SH        Sole              14847          4461
+DXP Enterprises, Inc.                com  233377407   2802     80600 SH        Sole              55600         25000
+Datatrak International Inc.          com  238134100   3245    442087 SH        Sole             303411        138676
+Dawson Geophysical Co.               com  239359102   5535    200554 SH        Sole             133763         66791
+Deltathree, Inc.                     com  24783n102   1762    607500 SH        Sole             417700        189800
+Desarrolladora Homex ADR             com  25030w100  17128    484794 SH        Sole             347651        137143
+Dril Quip Inc.                       com  262037104  28605    403736 SH        Sole             293442        110294
+Dynamic Materials Corp.              com  267888105   5270    147872 SH        Sole             114394         33478
+ENGlobal Corp. (RESTRICTED)          com  000000000   1315     90000 SH        Sole              90000
+Edge Petroleum                       com  279862106   4802    192251 SH        Sole             132595         59656
+Edgewater Tech                       com  280358102   3202    489600 SH        Sole             335900        153700
+Ediets.com, Inc.                     com  280597105   1560    292764 SH        Sole             202018         90746
+Electronic Clearing House, Inc.      com  285562500    903     70800 SH        Sole              48700         22100
+Enbridge Energy Management Llc       com  ckc50x106      0     29643 SH        Sole                            29643
+Englobal Corp.                       com  293306106   6716    459711 SH        Sole             228458        231253
+Essex Corp.                          com  296744105  18454    838036 SH        Sole             597100        240936
+Euronet Worldwide, Inc.              com  298736109  35070    927054 SH        Sole             519811        407243
+F5 Networks, Inc.                    com  315616102   1646     22700 SH        Sole              21000          1700
+Falconstar Software                  com  306137100  15241   1612831 SH        Sole            1111700        501131
+First Advantage Corp CL A            com  31845f100   1771     73250 SH        Sole              50594         22656
+First Horizon Pharmaceutical C       com  32051K106  17937    711521 SH        Sole             505099        206422
+Flotek (RESTRICTED)                  com  000000000    627     25000 SH        Sole              25000
+Flotek Inds Inc.                     com  343389102   5157    205465 SH        Sole              99900        105565
+Focus Media Hldg Ltd ADR             com  34415V109  93437   1610429 SH        Sole            1031833        578596
+Foxhollow Technology                 com  35166a103   4726    154700 SH        Sole             112200         42500
+Fuel-Tech N.V.                       com  359523107  13117    820338 SH        Sole             535184        285154
+GMX Resources Inc.                   com  38011M108  12287    328087 SH        Sole             227074        101013
+Gaiam, Inc.                          com  36268q103   1136     70500 SH        Sole              45800         24700
+General Electric Co.                 com  369604103    530     15249 SH        Sole                            15249
+Glenayre Technologies                com  377899109  14298   2723362 SH        Sole            1919771        803591
+Golden Eagle Minerals, Inc.          com  380961102      0     10000 SH        Sole                            10000
+Golf Galaxy, Inc.                    com  381639103   4534    207493 SH        Sole             143000         64493
+Graham Corp.                         com  384556106   2724    139700 SH        Sole              96000         43700
+Hartmarx Corp.                       com  417119104     92     10696 SH        Sole                            10696
+Health Grades Inc.                   com  42218q102   2979    558838 SH        Sole             384257        174581
+Healthextras, Inc.                   com  422211102  36179   1024898 SH        Sole             582916        441982
+Healthspring, Inc.                   com  42224n101   1385     74400 SH        Sole              68700          5700
+Healthways, Inc.                     com  422245100  16227    318558 SH        Sole             218429        100129
+Helmerich & Payne                    com  423452101   1117     16000 SH        Sole               6900          9100
+Henry Brothers Electronics, In       com  426286100   1930    304000 SH        Sole             209400         94600
+Hercules Offshore                    com  427093109   8190    240825 SH        Sole             174725         66100
+
